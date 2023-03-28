@@ -1,0 +1,12 @@
+# ninja log v5
+1	123	7000662142586312	CMakeFiles/untitled1.dir/main.cpp.obj	8b0b300251ee6b9e
+124	283	7000662144193714	untitled1.exe	2238978f53431cb
+17	574	7011346163604953	CMakeFiles/untitled1.dir/Sorts.cpp.obj	c7b5a6aa284fe769
+1	756	7011346165443733	CMakeFiles/untitled1.dir/main.cpp.obj	8b0b300251ee6b9e
+756	895	7011346166805922	untitled1.exe	3e5e0fdfa516fe2a
+3	602	7011346407784509	CMakeFiles/untitled1.dir/main.cpp.obj	8b0b300251ee6b9e
+602	718	7011346408933529	untitled1.exe	3e5e0fdfa516fe2a
+2	643	7011347354140370	CMakeFiles/untitled1.dir/main.cpp.obj	8b0b300251ee6b9e
+643	761	7011347355320916	untitled1.exe	3e5e0fdfa516fe2a
+3	651	7011348240290094	CMakeFiles/untitled1.dir/main.cpp.obj	8b0b300251ee6b9e
+651	762	7011348241385197	untitled1.exe	3e5e0fdfa516fe2a
